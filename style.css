@@ -1,0 +1,28 @@
+body {
+    background-color: lightpink;
+}
+
+h1 {
+    color:darkslategrey;
+    margin-left: 8em;
+    margin-top: 3em;
+    
+}
+
+.friend{
+    background-color: ivory;
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+}
+
+.friend{
+    margin: 5em;
+    text-align: center;
+    height: 20em;
+    width: 30em;
+    border: 2px solid darkslategrey;
+    border-radius: 10px;
+    margin-left: 10em;
+}
